@@ -11,7 +11,7 @@ function App() {
         <FormularioColor></FormularioColor>
       </Container>
 
-      <footer className="text-center ">
+      <footer className="text-center bg-danger">
         <p>@ jr todos los derechos reservados</p>{" "}
       </footer>
     </>
